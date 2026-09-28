@@ -1,6 +1,6 @@
-# Receita Bx Consulta Ecd
+# Demonstração — Consulta da ECD no Receitanet BX
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de consulta da ECD no Receitanet BX — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Consultar a ECD de cada empresa no Receitanet BX é repetitivo.
